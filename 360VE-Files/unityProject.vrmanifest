@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.360ve.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\KSURealitiesLab\\Desktop\\RESEARCH DOCS\\360VE\\360VE\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "360VE [Testing]"
+        }
+      }
+    }
+  ]
+}
